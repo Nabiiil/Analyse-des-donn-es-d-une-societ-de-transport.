@@ -1,4 +1,4 @@
-# Analyse des données d'une societé de transport.
+# Fraude detection for a transport company.
 je suis en charge d’analyser un fichier source, reçu de la part d’un partenaire, dans l’objectif de détecter les potentiels fraudeurs.
 l’employé a pour mission de s’assurer que le transport de marchandise d’un point d’escale jusqu’au client final s’est passé sans moindre souci.
 Le processus de chargement de la marchandise par le transporteur  se déroule selon les étapes suivantes :
